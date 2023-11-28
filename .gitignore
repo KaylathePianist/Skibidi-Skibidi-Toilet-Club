@@ -1,0 +1,9 @@
+*.rpa
+*.rpyc
+/game/cache/*
+/game/chrs/*
+/characters/*
+/.vscode/*
+/Documentation/*
+/DDLCModTemplate.xcodeproj/*
+*.xcconfig
