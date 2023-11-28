@@ -28,3 +28,11 @@ label skibidiohiorizzgyatt:
     "We were TikTok friends, Snapchat besties, and even YouTube community post partners in crime."
     "But something happened one day that drove us away..."
     "Honestly, I forgot what exactly it was, though."
+    "Either way, it's been a long time since I saw her."
+    "But now... {i}she looks insanely hot{/i}."
+    mc "Sayori... you look so fucking sigma right now."
+    s "Eeehh?!"
+    s "Y-you can't just say things like that!"
+    mc "Ah- did I say that out loud?"
+    s "Uh, yeah? You can be such a beta sometimes, [player]."
+    
