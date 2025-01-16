@@ -7,25 +7,25 @@
 # This file customizes what your mod is and and how it starts and builds!
 
 # This controls what your mod is called.
-define config.name = "DDLC Mod Template – Python 2 Edition"
+define config.name = "Skibidi Skibidi Toilet Club"
 
 # This controls whether you want your mod name to show in the main menu.
 # If your mod name is big, it is suggested to turn this off.
 define gui.show_name = True
 
 # This controls the version number of your mod.
-define config.version = "4.2.3-Py2"
+define config.version = "0.1"
 
 # This adds information about your mod in the About screen.
 # DDLC does not have a 'About' screen so you can leave this blank.
-define gui.about = _("")
+define gui.about = _("In this mod, the MC has a huge GYATT and lives in the Skibidi Lore. He Mews daily and suffers from not being a Rizzler. He's in danger of being Skibidevourered daily, and honestly, nobody would miss him. Luckily, FNAF-Pilled and BanBan-Maxed Sayori introduces him to the Skibidi Club, humanity's secret bastion against the Skibidi Toilets while the Cameramen attack the main base! Can the Skibidi Club solve MC's Ohio personality and show the Skibidis how Cringe they are?")
 
 # This control the name of your mod build when you package your mod
 # in the Ren'Py Launcher or DDMM (Doki Doki Mod Maker).
 # Note:
 #   The build name is ASCII only so no numbers, spaces, or semicolons.
 #   Example: Doki Doki Yuri Time to DokiDokiYuriTime
-define build.name = "DDLCModTemplateTwo-Py2"
+define build.name = "TatePilledSkibidiMaxxedSigmaMod"
 
 # This configures whether your mod has sound effects.
 define config.has_sound = True
